@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063772694138",
+    "project_id": "khushhal-kisan-app",
+    "storage_bucket": "khushhal-kisan-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063772694138:android:a38e3f70bab49e1881fdc3",
+        "android_client_info": {
+          "package_name": "com.example.khushhal_kisan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRA5ArClxmIil-WecLpVLvYajjd_a910"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

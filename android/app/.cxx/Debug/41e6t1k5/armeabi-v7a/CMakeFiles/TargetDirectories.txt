@@ -1,0 +1,2 @@
+D:/FYP/khushhal_kisan_app - Copy/android/app/.cxx/Debug/41e6t1k5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/FYP/khushhal_kisan_app - Copy/android/app/.cxx/Debug/41e6t1k5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

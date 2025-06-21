@@ -1,0 +1,2 @@
+D:/FYP/khushhal_kisan_app/android/app/.cxx/RelWithDebInfo/153t382m/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FYP/khushhal_kisan_app/android/app/.cxx/RelWithDebInfo/153t382m/arm64-v8a/CMakeFiles/rebuild_cache.dir
