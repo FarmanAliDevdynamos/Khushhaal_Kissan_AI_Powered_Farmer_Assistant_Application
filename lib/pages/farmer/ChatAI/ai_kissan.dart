@@ -3,7 +3,7 @@ import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 
-const apiKey = 'AIzaSyBqPs0oUQy162Y2V_D23pBmhdY5jzD2nKQ';
+const apiKey = 'Use Your Gemni Api Here';
 
 class FarmerChatScreen extends StatefulWidget {
   const FarmerChatScreen({super.key});
